@@ -1,4 +1,4 @@
-#Sun Aug 23 01:43:06 IST 2020
-base.0=C\:\\Users\\ashis\\Desktop\\sks project\\StudentsHelpApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Mon Aug 24 15:04:05 IST 2020
+base.0=C\:\\Users\\asus\\Desktop\\Student-Help-App\\Student-Help-App-1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
