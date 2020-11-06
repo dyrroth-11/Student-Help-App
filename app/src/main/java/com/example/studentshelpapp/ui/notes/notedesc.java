@@ -8,7 +8,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.BaseAdapter;
-import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.TextView;
 
@@ -233,7 +232,7 @@ public class notedesc extends Fragment{
             view = getLayoutInflater().inflate(R.layout.customlayout4,null);
             TextView subject = (TextView)view.findViewById(R.id.subject);
             subject.setText(Name[i]);
-            TextView link = (TextView)view.findViewById(R.id.link);
+            TextView link = (TextView)view.findViewById(R.id.author);
             link.setText(desc[i]);
             return view;
         }

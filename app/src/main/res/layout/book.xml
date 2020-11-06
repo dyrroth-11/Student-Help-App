@@ -1,19 +1,19 @@
-<LinearLayout android:layout_width="match_parent"
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_height="fill_parent"
-    android:gravity="center"
-    android:orientation="vertical"
-    >
-    <!--  Two Buttons to Open  different recycler view  -->
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.notes.book">
 
-    <Button
-        android:text="hii"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/staggeredRecyclerViewBtn"
-        android:gravity="center"
-        android:padding="10dp"
-        android:textSize="17sp"
-        android:textColor="#000000"/>
+    <androidx.viewpager.widget.ViewPager
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:foregroundGravity="center"
+        android:id="@+id/view_pager"
+        android:layout_centerInParent="true"
+        android:clipToPadding="false"
+        android:overScrollMode="never">
+    </androidx.viewpager.widget.ViewPager>
 
-</LinearLayout>
+</RelativeLayout>

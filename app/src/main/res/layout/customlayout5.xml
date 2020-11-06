@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <RelativeLayout
+        android:id="@+id/rel"
+        android:layout_width="415dp"
+        android:layout_height="168dp"
+        android:layout_marginTop="20dp"
+        android:alpha="0.9"
+        android:background="@drawable/styling4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/subject"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginTop="15dp"
+            android:textColor="#FFFFFF"
+            android:textSize="25dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/author"
+            android:layout_width="match_parent"
+            android:layout_height="37dp"
+            android:layout_marginTop="60dp"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/link"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="110dp"
+            android:textColor="#0C0C0C"
+            android:textSize="16dp" />
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
