@@ -14,7 +14,7 @@
         <activity android:name=".Sell" android:parentActivityName=".MainActivity"/>
         <activity android:name=".Purchase" />
 
-        android:theme="@style/AppTheme.NoActionBar">
+
         <activity
             android:name=".ui.notes.note"
             android:label="note"

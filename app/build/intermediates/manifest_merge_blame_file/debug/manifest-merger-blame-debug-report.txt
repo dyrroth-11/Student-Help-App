@@ -40,88 +40,87 @@
 25        <activity android:name="com.example.studentshelpapp.Purchase" />
 25-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:15:9-46
 25-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:15:19-43
-26        android:theme="@style/AppTheme.NoActionBar">
-27        <activity
-27-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:18:9-21:68
-28            android:name="com.example.studentshelpapp.ui.notes.note"
-28-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:19:13-42
-29            android:label="note"
-29-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:20:13-33
-30            android:theme="@style/AppTheme.NoActionBar" />
-30-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:21:13-56
-31        <activity
-31-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:22:9-25:68
-32            android:name="com.example.studentshelpapp.ui.notes.book"
-32-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:23:13-42
-33            android:label="note"
-33-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:24:13-33
-34            android:theme="@style/AppTheme.NoActionBar" />
-34-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:25:13-56
-35        <activity
-35-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:27:9-30:59
-36            android:name="com.example.studentshelpapp.ui.freshers.fests"
-36-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:28:13-46
-37            android:label="@string/title_activity_fests"
-37-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:29:13-57
-38            android:theme="@style/AppTheme.NoActionBar" />
-38-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:30:13-56
-39        <activity
-39-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:31:9-34:59
-40            android:name="com.example.studentshelpapp.ui.freshers.needs"
-40-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:32:13-46
-41            android:label="@string/title_activity_needs"
-41-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:33:13-57
-42            android:theme="@style/AppTheme.NoActionBar" />
-42-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:34:13-56
-43        <activity
-43-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:35:9-38:59
-44            android:name="com.example.studentshelpapp.ui.freshers.foods"
-44-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:36:13-46
-45            android:label="@string/title_activity_foods"
-45-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:37:13-57
-46            android:theme="@style/AppTheme.NoActionBar" />
-46-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:38:13-56
-47        <activity
-47-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:39:9-80
-48            android:name="com.example.studentshelpapp.MainActivity"
-48-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:39:19-47
-49            android:launchMode="singleTop" />
-49-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:39:48-78
-50        <activity
-50-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:40:9-48:20
-51            android:name="com.example.studentshelpapp.SplashActivity"
-51-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:41:13-43
-52            android:theme="@style/Theme.AppCompat.NoActionBar" >
-52-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:42:13-63
-53            <intent-filter>
-53-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:43:13-47:29
-54                <action android:name="android.intent.action.MAIN" />
-54-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:44:17-69
-54-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:44:25-66
-55
-56                <category android:name="android.intent.category.LAUNCHER" />
-56-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:46:17-77
-56-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:46:27-74
-57            </intent-filter>
-58        </activity>
-59
-60        <meta-data
-60-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:50:9-52:57
-61            android:name="preloaded_fonts"
-61-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:51:13-43
-62            android:resource="@array/preloaded_fonts" />
-62-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:52:13-54
-63
-64        <provider
-64-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
-65            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-65-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
-66            android:authorities="com.example.studentshelpapp.lifecycle-process"
-66-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
-67            android:exported="false"
-67-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
-68            android:multiprocess="true" />
-68-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
-69    </application>
-70
-71</manifest>
+26        <activity
+26-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:18:9-21:68
+27            android:name="com.example.studentshelpapp.ui.notes.note"
+27-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:19:13-42
+28            android:label="note"
+28-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:20:13-33
+29            android:theme="@style/AppTheme.NoActionBar" />
+29-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:21:13-56
+30        <activity
+30-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:22:9-25:68
+31            android:name="com.example.studentshelpapp.ui.notes.book"
+31-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:23:13-42
+32            android:label="note"
+32-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:24:13-33
+33            android:theme="@style/AppTheme.NoActionBar" />
+33-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:25:13-56
+34        <activity
+34-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:27:9-30:59
+35            android:name="com.example.studentshelpapp.ui.freshers.fests"
+35-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:28:13-46
+36            android:label="@string/title_activity_fests"
+36-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:29:13-57
+37            android:theme="@style/AppTheme.NoActionBar" />
+37-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:30:13-56
+38        <activity
+38-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:31:9-34:59
+39            android:name="com.example.studentshelpapp.ui.freshers.needs"
+39-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:32:13-46
+40            android:label="@string/title_activity_needs"
+40-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:33:13-57
+41            android:theme="@style/AppTheme.NoActionBar" />
+41-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:34:13-56
+42        <activity
+42-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:35:9-38:59
+43            android:name="com.example.studentshelpapp.ui.freshers.foods"
+43-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:36:13-46
+44            android:label="@string/title_activity_foods"
+44-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:37:13-57
+45            android:theme="@style/AppTheme.NoActionBar" />
+45-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:38:13-56
+46        <activity
+46-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:39:9-80
+47            android:name="com.example.studentshelpapp.MainActivity"
+47-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:39:19-47
+48            android:launchMode="singleTop" />
+48-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:39:48-78
+49        <activity
+49-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:40:9-48:20
+50            android:name="com.example.studentshelpapp.SplashActivity"
+50-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:41:13-43
+51            android:theme="@style/Theme.AppCompat.NoActionBar" >
+51-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:42:13-63
+52            <intent-filter>
+52-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:43:13-47:29
+53                <action android:name="android.intent.action.MAIN" />
+53-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:44:17-69
+53-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:44:25-66
+54
+55                <category android:name="android.intent.category.LAUNCHER" />
+55-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:46:17-77
+55-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:46:27-74
+56            </intent-filter>
+57        </activity>
+58
+59        <meta-data
+59-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:50:9-52:57
+60            android:name="preloaded_fonts"
+60-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:51:13-43
+61            android:resource="@array/preloaded_fonts" />
+61-->C:\Users\asus\Desktop\Student-Help-App\app\src\main\AndroidManifest.xml:52:13-54
+62
+63        <provider
+63-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+64            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+64-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+65            android:authorities="com.example.studentshelpapp.lifecycle-process"
+65-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+66            android:exported="false"
+66-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+67            android:multiprocess="true" />
+67-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+68    </application>
+69
+70</manifest>
