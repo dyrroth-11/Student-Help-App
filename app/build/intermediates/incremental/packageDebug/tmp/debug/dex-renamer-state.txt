@@ -1,17 +1,13 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-#Fri Nov 13 18:33:35 IST 2020
-base.0=C\:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-=======
-#Sat Nov 14 19:36:06 IST 2020
-base.0=C\:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
->>>>>>> 3f8228c442b615b204752dcc90b0d1855c9569f8
+#Sat Nov 14 20:29:30 IST 2020
+path.3=classes.dex
+path.2=classes.dex
 path.1=classes.dex
-renamed.1=classes2.dex
-=======
-#Thu Nov 12 16:21:56 IST 2020
-base.0=C\:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
->>>>>>> pr/10
 path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
 renamed.0=classes.dex
+base.3=C\:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+base.2=C\:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+base.0=C\:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex

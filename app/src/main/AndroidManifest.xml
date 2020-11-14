@@ -11,13 +11,8 @@
         android:roundIcon="@mipmap/logo_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-<<<<<<< HEAD
-<<<<<<< HEAD
-        <activity android:name=".ui.freshers.map"></activity>
-=======
         <activity android:name=".MyDetails" android:parentActivityName=".MyAds"></activity>
         <activity android:name=".ui.freshers.map" />
->>>>>>> 3f8228c442b615b204752dcc90b0d1855c9569f8
         <activity android:name=".signup" />
         <activity android:name=".login" />
         <activity
@@ -33,13 +28,6 @@
         <activity
             android:name=".Purchase"
             android:parentActivityName=".MainActivity" />
-=======
-        <activity android:name=".MyAds"></activity>
-        <activity android:name=".Sell" android:parentActivityName=".MainActivity"/>
-        <activity android:name=".Purchase" />
-
-
->>>>>>> pr/10
         <activity
             android:name=".ui.notes.note"
             android:label="note"
