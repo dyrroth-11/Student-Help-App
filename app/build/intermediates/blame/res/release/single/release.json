@@ -1,742 +1,614 @@
 [
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_cross.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\cross.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_pass.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\pass.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_homeicon.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\homeicon.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_rectangular_field.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\rectangular_field.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_second.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\fragment_second.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\fragment_first.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_ed_kit.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_ed_kit.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_ed_kit.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\ic_ed_kit.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_vehicle.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_vehicle.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_food.png.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\food.png"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_cpndevicon.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\cpndevicon.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_styling2.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\styling2.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_map.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\map.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_foods.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\activity_foods.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_outside.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\outside.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_festss.jpg.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\festss.jpg"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_my_ads.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\activity_my_ads.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\nav_header_main.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_fmc.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\fmc.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_inside.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\inside.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_logo.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\mipmap-mdpi\\logo.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_outside.jpg.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\outside.jpg"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_foods.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\fragment_foods.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_outside.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\outside.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_logo_round.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\mipmap-hdpi\\logo_round.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_more.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\more.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_apron.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_apron.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_customlayout5.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\customlayout5.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_nav_header_main.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_sell.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\activity_sell.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_home.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\home.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\font_amaranth.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\font\\amaranth.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_notesicon.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\notesicon.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_resorces_dev.jpeg.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\resorces_dev.jpeg"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_vehicle.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_vehicle.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_cp.jpg.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\cp.jpg"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\navigation_mobile_navigation.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_home.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\home.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_freshersicon.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\freshersicon.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_map.png.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\map.png"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_headimagebuynsell.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\headimagebuynsell.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_courses_cp.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\courses_cp.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_notes.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\notes.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_notes.jpg.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\notes.jpg"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_logo_round.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_round.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_customlayout3.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\customlayout3.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_books.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_books.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\font_nixie_one.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\font\\nixie_one.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_app_bar_main.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_apron.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_apron.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_need.jpeg.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\need.jpeg"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_ed_kit.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_ed_kit.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_logo_foreground.png.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\mipmap-mdpi\\logo_foreground.png"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_needs.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\activity_needs.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_note.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\note.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_notesicon.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\notesicon.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_poster.png.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\poster.png"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_single_ad_item.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\single_ad_item.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_logo_round.png.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\mipmap-hdpi\\logo_round.png"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_note.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\activity_note.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_styling3.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\styling3.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_books.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_books.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_logo_round.png.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_round.png"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_apron.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_apron.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_purchasing.jpg.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\purchasing.jpg"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_notesicon.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\notesicon.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_homeicon.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\homeicon.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_inside.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\inside.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_other.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\ic_other.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_button.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\button.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_sticker.png.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\sticker.png"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_food.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\food.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_logo_round.png.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\mipmap-mdpi\\logo_round.png"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_logo_foreground.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_foreground.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_freshers.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\freshers.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_book.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\book.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_item2.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\item2.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_cpndevicon.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\cpndevicon.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_customlayout.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\customlayout.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_splash.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\activity_splash.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_others.jpg.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\others.jpg"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_freshersicon.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\freshersicon.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_sell.png.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\sell.png"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\font_cantora_one.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\font\\cantora_one.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_ml.jpg.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\ml.jpg"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_logo.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_namecard.png.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\namecard.png"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_side_nav_bar.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_needs.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\activity_needs.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_roundedcorner.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\roundedcorner.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_night.jpg.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\night.jpg"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_ed_kit.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_ed_kit.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\activity_splash.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_freshersicon.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\freshersicon.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_logo_foreground.png.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_foreground.png"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_buynsellicon.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\buynsellicon.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_needs.png.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\needs.png"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_cpndevicon.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\cpndevicon.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_needs.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\fragment_needs.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_ky.jpg.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\ky.jpg"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_round.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\round.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_pharmacy.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\pharmacy.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_styling4.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\styling4.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_details.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\activity_details.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_logo.png.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\mipmap-mdpi\\logo.png"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_round.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\round.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_buynsell.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\buynsell.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_vehicle.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_vehicle.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_upload_image_item.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\upload_image_item.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_freshersicon.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\freshersicon.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_books.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\ic_books.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_fests.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\fragment_fests.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_item.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\item.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_cross.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\cross.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_cpndev.jpeg.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\cpndev.jpeg"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_styling2.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\styling2.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_my_ads.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\activity_my_ads.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\anim_splashanimation.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\anim\\splashanimation.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_dev.jpg.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\dev.jpg"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_logo_foreground.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\mipmap-xhdpi\\logo_foreground.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_book.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\book.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_others.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\others.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_customlayout7.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\customlayout7.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_cross.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\cross.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_stationary.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\stationary.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_logo_round.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\mipmap-mdpi\\logo_round.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_myorders.png.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\myorders.png"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\navigation_nav_graph.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_meds.jpg.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\meds.jpg"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_cpndev.jpeg.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\cpndev.jpeg"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_email.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\email.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_other.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_other.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_book_cp.jpg.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\book_cp.jpg"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_fests.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\activity_fests.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\fragment_second.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_notesicon.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\notesicon.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_logo.png.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\mipmap-hdpi\\logo.png"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_books.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_books.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_map.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\activity_map.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_ed_kit.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_ed_kit.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_customlayout4.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\customlayout4.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_cross.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\cross.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_logo_round.png.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_round.png"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_sell.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\sell.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_buynsell.jpg.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\buynsell.jpg"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_cross.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\cross.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_dev.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\activity_dev.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_cpndevicon.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\cpndevicon.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_others.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\others.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_buynsellicon.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\buynsellicon.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_logo_round.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\mipmap-anydpi-v26\\logo_round.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_logo_foreground.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\mipmap-mdpi\\logo_foreground.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_foods.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\fragment_foods.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_customlayout2.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\customlayout2.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\app_bar_main.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_baseline_image_24.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_baseline_image_24.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_notedesc.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\notedesc.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_logo_round.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\mipmap-anydpi-v26\\logo_round.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_logo_foreground.png.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_foreground.png"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_content_splash.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\content_splash.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_books_cp.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\books_cp.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\font_alfa_slab_one.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\font\\alfa_slab_one.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_customlayout8.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\customlayout8.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_books.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_books.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_headimagebuynsell.png.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\headimagebuynsell.png"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_baseline_image_24.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_baseline_image_24.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_judge_cp.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\judge_cp.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_hndwrttennotes.jpg.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\hndwrttennotes.jpg"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_logo.png.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo.png"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_logo_round.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\mipmap-xhdpi\\logo_round.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_apron.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_apron.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_resources_cp.jpg.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\resources_cp.jpg"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\font_corben.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\font\\corben.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_logo_round.png.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\mipmap-xhdpi\\logo_round.png"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_freshersicon.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\freshersicon.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_pharmacy.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\pharmacy.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_stationary.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\stationary.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_note.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\activity_note.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_logo.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\mipmap-hdpi\\logo.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_vehicle.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\ic_vehicle.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_vehicle.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_vehicle.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_freshersicon.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\freshersicon.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_apron.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_apron.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_resources_dev.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\resources_dev.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_content_main.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\content_main.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_notesicon.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\notesicon.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_logo_foreground.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_foreground.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\navigation\\nav_graph.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_other.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_other.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_notes.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\notes.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_freshers.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\freshers.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_inside.jpg.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\inside.jpg"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_namecard.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\namecard.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\activity_signup.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_item2.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\item2.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_aagman.jpg.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\aagman.jpg"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_festdesc.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\festdesc.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_styling7.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\styling7.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_logo_foreground.png.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\mipmap-xhdpi\\logo_foreground.png"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_cpndevicon.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\cpndevicon.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_single_ad_item.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\single_ad_item.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_notesicon.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\notesicon.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_logo_foreground.png.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\mipmap-hdpi\\logo_foreground.png"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_purchasing.jpg.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\purchasing.jpg"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_logo.png.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\mipmap-xhdpi\\logo.png"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_spardha.jpg.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\spardha.jpg"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_fireworks.jpg.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\fireworks.jpg"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_baseline_image_24.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_baseline_image_24.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_books1.jpeg.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\books1.jpeg"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_myorders.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\myorders.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\font_cantora_one.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\font\\cantora_one.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_technex.jpg.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\technex.jpg"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_brochure.png.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\brochure.png"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_other.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_other.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_buynsellicon.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\buynsellicon.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_buynsellicon.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\buynsellicon.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_judge_cp.jpg.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\judge_cp.jpg"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_buynsellicon.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\buynsellicon.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_technex.jpg.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\technex.jpg"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_foods.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\activity_foods.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_bookdesc.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\bookdesc.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_buynsell.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\buynsell.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_customlayout6.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\customlayout6.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_purchase.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\activity_purchase.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_fests.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\fragment_fests.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_cross.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\cross.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\font_alfa_slab_one.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\font\\alfa_slab_one.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_cpndevicon.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\cpndevicon.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\menu_side_menu.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\menu\\side_menu.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_sticker.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\sticker.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_fests.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\activity_fests.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_needs.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\fragment_needs.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\anim_splashanimation.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\anim\\splashanimation.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_baseline_image_24.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_baseline_image_24.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_hndwrttennotes.jpg.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\hndwrttennotes.jpg"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_notesicon.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\notesicon.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_logo.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\mipmap-anydpi-v26\\logo.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_cpndevicon.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\cpndevicon.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_styling8.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\styling8.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_ed_kit.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_ed_kit.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_stationary.jpg.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\stationary.jpg"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_refresher.jpg.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\refresher.jpg"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_roundedcorner.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\roundedcorner.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_other.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_other.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_baseline_image_24.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\ic_baseline_image_24.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_notedesc.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\notedesc.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_customlayout2.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\customlayout2.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_homeicon.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\homeicon.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\font_corben.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\font\\corben.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_freshersicon.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\freshersicon.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_my_details.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\activity_my_details.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_homeicon.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\homeicon.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\content_main.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_customlayout.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\customlayout.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_other.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_other.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_purchase.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\activity_purchase.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_customlayout4.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\customlayout4.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_spardha.jpg.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\spardha.jpg"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_vehicle.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_vehicle.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_book.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\activity_book.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_vehicle.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_vehicle.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_cpndev.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\cpndev.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_content_splash.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\content_splash.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_homeicon.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\homeicon.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_styling5.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\styling5.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\font_amaranth.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\font\\amaranth.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_ed_kit.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_ed_kit.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_cpndev.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\cpndev.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_books.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_books.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_apron.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\ic_apron.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_poster.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\poster.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_cross.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\cross.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_item.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\item.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_refresher.jpg.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\refresher.jpg"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_buynsell.jpg.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\buynsell.jpg"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_fmc.png.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\fmc.png"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_logo.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\mipmap-xxhdpi\\logo.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_festdesc.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\festdesc.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_homeicon.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\homeicon.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_logo.png.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\mipmap-xxhdpi\\logo.png"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_cross.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\cross.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_courses_cp.jpg.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\courses_cp.jpg"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_buynsellicon.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\buynsellicon.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_styling.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\styling.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_basicneeds.jpg.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\basicneeds.jpg"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_cp.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\activity_cp.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_vehicle.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_vehicle.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_cpndevicon.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\cpndevicon.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_freshersicon.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\freshersicon.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_details.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\activity_details.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_baseline_image_24.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_baseline_image_24.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_noimage.jpg.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\noimage.jpg"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_logo.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\mipmap-anydpi-v26\\logo.xml"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_ky.jpg.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\ky.jpg"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_books.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_books.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_basicneeds.jpg.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\basicneeds.jpg"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_ed_kit.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_ed_kit.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_button.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\button.xml"
     },
     {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_customlayout3.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\customlayout3.xml"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_logo.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\mipmap-xhdpi\\logo.png"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_baseline_image_24.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_baseline_image_24.png"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_baseline_image_24.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_baseline_image_24.png"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_sell.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\activity_sell.xml"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_upload_image_item.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\upload_image_item.xml"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_logo_round.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_round.png"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\font_nixie_one.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\font\\nixie_one.xml"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_need.jpeg.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\need.jpeg"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_needs.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\needs.png"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_fresher.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\fresher.png"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\menu_activity_main_drawer.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_buynsellicon.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\buynsellicon.png"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_first.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\fragment_first.xml"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_apron.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_apron.png"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_other.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_other.png"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_books.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_books.png"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_aagman.jpg.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\aagman.jpg"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_brochure.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\brochure.png"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_notes.jpg.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\notes.jpg"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_homeicon.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\homeicon.png"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_festss.jpg.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\festss.jpg"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_buynsellicon.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\buynsellicon.png"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_fireworks.jpg.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\fireworks.jpg"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_styling3.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\styling3.xml"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_apron.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_apron.xml"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_noimage.jpg.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\noimage.jpg"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_styling.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\drawable\\styling.xml"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_notesicon.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\notesicon.png"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_other.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_other.png"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_logo_foreground.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\mipmap-hdpi\\logo_foreground.png"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_note.xml.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\src\\main\\res\\layout\\note.xml"
-    },
-    {
-        "merged": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_homeicon.png.flat",
-        "source": "C:\\Users\\asus\\Desktop\\Student-Help-App\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\homeicon.png"
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_fresher.png.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\fresher.png"
     }
 ]

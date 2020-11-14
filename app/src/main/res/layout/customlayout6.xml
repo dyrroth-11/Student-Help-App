@@ -10,6 +10,7 @@
         android:layout_height="106dp"
         android:layout_marginTop="20dp"
         android:alpha="0.9"
+        android:padding="10dp"
         android:background="@drawable/styling5"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

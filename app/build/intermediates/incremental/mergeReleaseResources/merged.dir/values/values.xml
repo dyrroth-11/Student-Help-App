@@ -1058,12 +1058,16 @@
     <string name="second_fragment_label">Second Fragment</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="tab_text_1">Within Campus</string>
+    <string name="tab_text_10">Courses</string>
+    <string name="tab_text_11">Books</string>
     <string name="tab_text_2">Outside Campus</string>
     <string name="tab_text_3">Stationary</string>
     <string name="tab_text_4">Pharmacy</string>
     <string name="tab_text_5">Others</string>
     <string name="tab_text_6">Notes</string>
     <string name="tab_text_7">Books</string>
+    <string name="tab_text_8">Online Judge</string>
+    <string name="tab_text_9">Resources</string>
     <string name="title_activity_fests">fests</string>
     <string name="title_activity_foods">foods</string>
     <string name="title_activity_needs">needs</string>

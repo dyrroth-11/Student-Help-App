@@ -98,7 +98,7 @@ public class bookdesc extends Fragment {
         {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                Intent intent = new Intent();
+                Intent intent = new Intent(Intent.ACTION_VIEW);
                 intent.setData(Uri.parse(desc[position]));
                 startActivity(intent);
             }

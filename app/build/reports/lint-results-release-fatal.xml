@@ -1,4 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <issues format="5" by="lint 4.0.1">
 
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/imageView2`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="      android:id=&quot;@+id/imageView2&quot;"
+        errorLine2="      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\ashis\Desktop\a\Student-Help-App\app\src\main\res\layout\activity_login.xml"
+            line="71"
+            column="7"/>
+        <location
+            file="C:\Users\ashis\Desktop\a\Student-Help-App\app\src\main\res\layout\activity_login.xml"
+            line="42"
+            column="7"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/imageView2`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="        android:id=&quot;@+id/imageView2&quot;"
+        errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\ashis\Desktop\a\Student-Help-App\app\src\main\res\layout\activity_signup.xml"
+            line="72"
+            column="9"/>
+        <location
+            file="C:\Users\ashis\Desktop\a\Student-Help-App\app\src\main\res\layout\activity_signup.xml"
+            line="43"
+            column="9"/>
+    </issue>
+
 </issues>

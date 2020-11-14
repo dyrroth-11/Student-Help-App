@@ -26,6 +26,7 @@ import android.widget.ProgressBar;
 import android.widget.Spinner;
 import android.widget.Toast;
 
+import com.example.studentshelpapp.ui.buynsell.BuynsellViewModel;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.auth.FirebaseAuth;
@@ -170,6 +171,8 @@ public class Sell extends AppCompatActivity implements UploadListAdapter.OnCross
                                 if(finalI==totalImages-1)
                                 {mProgress.dismiss();
                                     Toast.makeText(getApplicationContext(),"Ad posted successfully",Toast.LENGTH_SHORT).show();
+                                    Intent intent = new Intent(Sell.this,MainActivity.class);
+                                    startActivity(intent);
 
                                 }
                             }
@@ -203,6 +206,8 @@ public class Sell extends AppCompatActivity implements UploadListAdapter.OnCross
             {
                 mProgress.dismiss();
                 Toast.makeText(getApplicationContext(),"Ad posted successfully",Toast.LENGTH_SHORT).show();
+                Intent intent = new Intent(Sell.this,MainActivity.class);
+                startActivity(intent);
 
             }
 
@@ -217,7 +222,13 @@ public class Sell extends AppCompatActivity implements UploadListAdapter.OnCross
         }
         else
         {
-            Toast.makeText(getApplicationContext(),"Incomplete or incorrect information",Toast.LENGTH_LONG).show();
+
+            if(Contact.length()!=10){
+                Toast.makeText(getApplicationContext(),"Enter valid contact number",Toast.LENGTH_LONG).show();
+            }
+            else{
+                Toast.makeText(getApplicationContext(),"Incomplete or incorrect information",Toast.LENGTH_LONG).show();
+            }
         }
 
 
