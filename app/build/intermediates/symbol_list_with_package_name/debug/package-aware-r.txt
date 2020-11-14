@@ -1832,6 +1832,7 @@ id btn_home
 id btn_other
 id btn_vehicle
 id btnchoose
+id btnremove
 id btns
 id buttonPanel
 id button_first
@@ -2258,6 +2259,7 @@ layout activity_login
 layout activity_main
 layout activity_map
 layout activity_my_ads
+layout activity_my_details
 layout activity_needs
 layout activity_note
 layout activity_purchase

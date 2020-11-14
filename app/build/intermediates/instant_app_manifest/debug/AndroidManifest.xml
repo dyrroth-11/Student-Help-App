@@ -24,6 +24,9 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.studentshelpapp.MyDetails"
+            android:parentActivityName="com.example.studentshelpapp.MyAds" />
         <activity android:name="com.example.studentshelpapp.ui.freshers.map" />
         <activity android:name="com.example.studentshelpapp.signup" />
         <activity android:name="com.example.studentshelpapp.login" />
@@ -32,6 +35,7 @@
             android:parentActivityName="com.example.studentshelpapp.Purchase" />
         <activity
             android:name="com.example.studentshelpapp.MyAds"
+            android:launchMode="singleTop"
             android:parentActivityName="com.example.studentshelpapp.MainActivity" />
         <activity
             android:name="com.example.studentshelpapp.Sell"

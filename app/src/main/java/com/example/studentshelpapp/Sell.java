@@ -28,6 +28,9 @@ import android.widget.Toast;
 
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
+import com.google.firebase.auth.UserInfo;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ServerValue;
@@ -74,9 +77,9 @@ public class Sell extends AppCompatActivity implements UploadListAdapter.OnCross
         ActionBar actionBar=getSupportActionBar();
         actionBar.setDisplayHomeAsUpEnabled(true);
 
-       dropdown = findViewById(R.id.spinner_category);
-       mStorageRef= FirebaseStorage.getInstance().getReference();
-       mDatabase= FirebaseDatabase.getInstance().getReference().child("Ads");
+        dropdown = findViewById(R.id.spinner_category);
+        mStorageRef= FirebaseStorage.getInstance().getReference();
+        mDatabase= FirebaseDatabase.getInstance().getReference().child("Ads");
 
         String[] items = new String[]{"ED Kit","Vehicle","Books/Notes","Apron","Other"};
 
@@ -101,8 +104,8 @@ public class Sell extends AppCompatActivity implements UploadListAdapter.OnCross
         uploadListAdapter=new UploadListAdapter(fileNameList,fileDoneList,this);
         //Recycler View
         mUploadList.setLayoutManager(new LinearLayoutManager(this));
-       mUploadList.setHasFixedSize(true);
-       mUploadList.setAdapter(uploadListAdapter);
+        mUploadList.setHasFixedSize(true);
+        mUploadList.setAdapter(uploadListAdapter);
 
         mSelectButton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -132,13 +135,18 @@ public class Sell extends AppCompatActivity implements UploadListAdapter.OnCross
         String Contact=contact.getText().toString();
         String ProName=productName.getText().toString();
         String Price=price.getText().toString();
+        Price="₹"+Price;
         String Category=dropdown.getSelectedItem().toString();
         String Description=desc.getText().toString();
+        if(TextUtils.isEmpty(Description))
+        {
+            Description="No description";
+        }
         mProgress=new ProgressDialog(this);
         final DatabaseReference neworder=mDatabase.push();
         String key=neworder.getKey();
 
-        if(!TextUtils.isEmpty(Name)&&!TextUtils.isEmpty(Contact)&&!TextUtils.isEmpty(ProName)&&!TextUtils.isEmpty(Price)&&!TextUtils.isEmpty(Category))
+        if(!TextUtils.isEmpty(Name)&&!TextUtils.isEmpty(Contact)&&!TextUtils.isEmpty(ProName)&&!TextUtils.isEmpty(Price)&&!TextUtils.isEmpty(Category)&&Contact.length()==10)
         {
             final int totalImages=fileUriList.size();
             mProgress.setMessage("Posting Ad...");
@@ -147,7 +155,7 @@ public class Sell extends AppCompatActivity implements UploadListAdapter.OnCross
 
             for(int i=0;i<totalImages;i++)
             {
-              final StorageReference filepath=mStorageRef.child("Images").child(key+Integer.toString(i));
+                final StorageReference filepath=mStorageRef.child("Images").child(key+Integer.toString(i));
 
                 final int finalI = i;
 
@@ -170,11 +178,20 @@ public class Sell extends AppCompatActivity implements UploadListAdapter.OnCross
                 }).addOnFailureListener(new OnFailureListener() {
                     @Override
                     public void onFailure(@NonNull Exception e) {
-                       Toast.makeText(getApplicationContext(),"Oops, upload failed for image " + Integer.toString(finalI),Toast.LENGTH_SHORT).show();
+                        Toast.makeText(getApplicationContext(),"Oops, upload failed for image " + Integer.toString(finalI),Toast.LENGTH_SHORT).show();
                     }
                 });
             }
+            FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
+            if (user != null) {
+                for (UserInfo profile : user.getProviderData()) {
+                    // UID specific to the provider
+                    String uid = profile.getUid();
+                    neworder.child("Id").setValue(uid);
 
+
+                }
+            }
             neworder.child("Name").setValue(Name);
             neworder.child("Contact").setValue(Contact);
             neworder.child("Product").setValue(ProName);
@@ -200,7 +217,7 @@ public class Sell extends AppCompatActivity implements UploadListAdapter.OnCross
         }
         else
         {
-            Toast.makeText(getApplicationContext(),"Incomplete information",Toast.LENGTH_LONG).show();
+            Toast.makeText(getApplicationContext(),"Incomplete or incorrect information",Toast.LENGTH_LONG).show();
         }
 
 
