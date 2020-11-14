@@ -11,7 +11,8 @@
         android:roundIcon="@mipmap/logo_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ui.freshers.map"></activity>
+        <activity android:name=".MyDetails" android:parentActivityName=".MyAds"></activity>
+        <activity android:name=".ui.freshers.map" />
         <activity android:name=".signup" />
         <activity android:name=".login" />
         <activity
@@ -19,7 +20,8 @@
             android:parentActivityName=".Purchase" />
         <activity
             android:name=".MyAds"
-            android:parentActivityName=".MainActivity" />
+            android:parentActivityName=".MainActivity"
+            android:launchMode="singleTop"/>
         <activity
             android:name=".Sell"
             android:parentActivityName=".MainActivity" />
