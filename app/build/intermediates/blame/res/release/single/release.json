@@ -36,12 +36,12 @@
         "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\nav_header_main.xml"
     },
     {
-        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_inside.xml.flat",
-        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\inside.xml"
-    },
-    {
         "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_outside.jpg.flat",
         "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\outside.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_inside.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\inside.xml"
     },
     {
         "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\layout_outside.xml.flat",
@@ -60,12 +60,12 @@
         "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\layout\\activity_sell.xml"
     },
     {
-        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\font_amaranth.xml.flat",
-        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\font\\amaranth.xml"
-    },
-    {
         "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_resorces_dev.jpeg.flat",
         "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\drawable\\resorces_dev.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\font_amaranth.xml.flat",
+        "source": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\src\\main\\res\\font\\amaranth.xml"
     },
     {
         "merged": "C:\\Users\\ashis\\Desktop\\a\\Student-Help-App\\app\\build\\intermediates\\res\\merged\\release\\drawable_cp.jpg.flat",

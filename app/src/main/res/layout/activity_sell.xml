@@ -52,7 +52,7 @@
             android:layout_below="@+id/header"
             android:layout_marginTop="31dp"
             android:fontFamily="sans-serif-condensed"
-            android:text="Student Name"
+            android:text="Student Name *"
             android:textColor="@color/colorBlue2"
             android:textSize="15sp"
             android:textStyle="bold" />
@@ -64,6 +64,7 @@
             android:layout_below="@id/student_name"
             android:ems="20"
            />
+
         <TextView
             android:id="@+id/contact"
             android:layout_width="wrap_content"
@@ -71,18 +72,19 @@
             android:layout_below="@+id/student_name"
             android:layout_marginTop="60dp"
             android:fontFamily="sans-serif-condensed"
-            android:text="Contact No."
+            android:text="Contact No. *"
             android:textColor="@color/colorBlue2"
             android:textSize="15sp"
             android:textStyle="bold" />
         <EditText
             android:id="@+id/text_contact"
-            android:inputType="text"
+            android:inputType="number"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_below="@id/contact"
             android:ems="20"
             />
+
         <TextView
             android:id="@+id/product"
             android:layout_width="wrap_content"
@@ -90,7 +92,7 @@
             android:layout_below="@id/contact"
             android:layout_marginTop="60dp"
             android:fontFamily="sans-serif-condensed"
-            android:text="Product Name"
+            android:text="Product Name *"
             android:textColor="@color/colorBlue2"
             android:textSize="15sp"
             android:textStyle="bold" />
@@ -102,6 +104,7 @@
             android:layout_below="@id/product"
             android:ems="20"
             />
+
         <TextView
             android:id="@+id/category"
             android:layout_width="wrap_content"
@@ -109,7 +112,7 @@
             android:layout_below="@id/product"
             android:layout_marginTop="60dp"
             android:fontFamily="sans-serif-condensed"
-            android:text="Category"
+            android:text="Category *"
             android:textColor="@color/colorBlue2"
             android:textSize="15sp"
             android:textStyle="bold" />
@@ -122,6 +125,7 @@
             android:popupBackground="#FFFFFF"
 
             android:spinnerMode="dropdown"/>
+
         <TextView
             android:id="@+id/price"
             android:layout_width="wrap_content"
@@ -129,13 +133,13 @@
             android:layout_below="@id/category"
             android:layout_marginTop="80dp"
             android:fontFamily="sans-serif-condensed"
-            android:text="Offered Price(Rs)"
+            android:text="Offered Price(Rs) *"
             android:textColor="@color/colorBlue2"
             android:textSize="15sp"
             android:textStyle="bold" />
         <EditText
             android:id="@+id/text_price"
-            android:inputType="text"
+            android:inputType="number"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_below="@id/price"
