@@ -40,6 +40,8 @@ also so that it can help them master that particular topic.
 This erases the confusion which everyone faces due to abundance of learning content
 on internet.
 
+## Project proposal:
+[Link](https://filebin.net/pvsq772kdg4uj80o)
 
 
 
