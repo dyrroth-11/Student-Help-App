@@ -36,7 +36,9 @@ first hand things.
 - **CP and dev:** They’ll have access to a list of coding platforms, video
 lectures and websites which’ll help them have an early start and not
 struggle at the time of internships. Links will be provided topic wise
-also so that it can help them master that particular topic.
+also so that it can help them master that particular topic. 
+This erases the confusion which everyone faces due to abundance of learning content
+on internet.
 
 ## Project Proposal:
 [Project Proposal](https://filebin.net/pvsq772kdg4uj80o)
